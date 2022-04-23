@@ -1,0 +1,11 @@
+Метод every() в прототипе
+
+Реализовать метод массива every() в прототипе (по аналогии с занятием №014)
+
+
+
+
+
+git remote add origin git@github.com:bws-ksi/method_every.git
+git branch -M main
+git push -u origin main
